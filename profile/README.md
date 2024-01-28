@@ -19,7 +19,7 @@ CodeDay Kolkata made it's debut on 23rd July, 2023. It took place in the beautif
 
 ## 🫶🏻 Acknowledgements
 
-Our event is entirely run on donations, and support from philanthropists and companies. We'd are extremely grateful to the following companies for their support:
+Our event is entirely run on donations, and support from philanthropists and companies. We are extremely grateful to the following companies for their support:
 
 - ### [CodeDay](https://codeday.org/) 
 CodeDay started its core event program in 2012, a series of 24-hour programming competitions run across the US every few months, usually on long weekends.
