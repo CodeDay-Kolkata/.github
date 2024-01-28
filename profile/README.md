@@ -28,6 +28,8 @@ CodeDay is currently hosted in 48 cities, focusing on regions without robust tec
 
 ![CodeDay](https://images.ctfassets.net/d5pti1xheuyu/31xuoBUULhr3kDKdkL6s0o/cb079869d97fc1a0a01ec0ab2b85ea2b/workshop-1.jpg)
 
+Zach Latta from Hack Club hosting a workshop for CodeDay SF, Bay Area.
+
 - ### [Github Education](https://education.github.com) 
 GitHub Education Program is a specialized initiative designed to empower students, teachers, and educational institutions with the tools and resources necessary to enhance learning and collaboration within the field of software development. This program, offered by GitHub, a widely used platform for version control and collaborative software development, aims to bridge the gap between academia and industry by providing access to cutting-edge technologies and fostering a community of learners.
 ![Github Education](https://cloud-j47v24tq8-hack-club-bot.vercel.app/0github_logo_white.png)
